@@ -42,11 +42,11 @@ pip install bit
 
 
 ---
-***Acvitity Overview***
+***Activity Overview***
 
 1. Create two nodes with two different account addresses. [ Terminal/Git bash]
 
-2. Generate ***genesis block***, which is the beginning of the chain, by running ./puppeth command and export genesis configurations in .json format. [Terminal/Git bash]
+2. Generate ***genesis block***, which is the beginning of the chain, by running ./puppeth command and export genesis configurations in .json format. Ensure that the .json files are copied/transferred on the same level as the nodes. [Terminal/Git bash]
 
 
 3. Initialize the nodes with genesis files and start mining blocks - Proof of Authority Blockchain. [ Terminal/Git bash]
